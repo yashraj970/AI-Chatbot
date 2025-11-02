@@ -1,3 +1,5 @@
+Make a .env file and keep your google gemini api key in GOOGLE_GENERATIVE_AI_API_KEY 
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
